@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666204911 source:d:\c++\controlandofluxo\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
